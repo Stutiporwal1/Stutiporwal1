@@ -48,11 +48,4 @@ I’m always excited to collaborate, learn, and contribute to interesting projec
 
 
 
----
-
-Thanks for stopping by! 🌟
-
----
-
-*This README is powered by ChatGPT — helping me showcase my journey clearly and professionally.*
 
