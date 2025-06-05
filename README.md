@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile!
 
----
 
 ## About Me
 
@@ -10,7 +9,6 @@ I am a passionate and dedicated learner focused on Data Science, Machine Learnin
 
 I enjoy creating user-friendly web applications, and upskilling in areas of Data Analysis.
 
----
 
 ## What I Work On
 
@@ -19,7 +17,6 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 - Open Source contributions and hackathons focused on environmental sustainability and social impact  
 - Building AI-powered tools like YouTube Video Title & Script Generators  
 
----
 
 ## Skills & Technologies
 
@@ -29,7 +26,6 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 - Web Development: HTML, CSS, JavaScript, UI/UX   
 - Tools: Git, GitHub, VS Code
 
----
 
 ## Achievements & Experiences
 
@@ -37,7 +33,6 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 - Selected for Infosys Springboard Pragati program (Cohort 3)  
 - Organized and led student placement committee activities  
 
----
 
 ## Let’s Connect
 
