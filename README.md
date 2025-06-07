@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I am a passionate and dedicated learner focused on Data Science, Machine Learning, and Web Development. With hands-on experience in Speech Emotion Recognition, Plant Disease Detection, and Fake News Detection, I love building projects that solve real-world problems using AI and data-driven approaches.
+I am a passionate and dedicated learner focused on Data Science, Machine Learning, and Web Development. With hands-on experience in projects - Scriptly (Youtube Content Generator), Plant Disease Detection, and Fake News Detection, I love building projects that solve real-world problems using AI and data-driven approaches.
 
 I enjoy creating user-friendly web applications, and upskilling in areas of Data Analysis.
 
