@@ -43,7 +43,8 @@ I’m always excited to collaborate, learn, and contribute to interesting projec
 
 ## My GitHub Stats
 
-![Screenshot 2025-06-13 002233](https://github.com/user-attachments/assets/2ca9ae3e-7252-470a-a636-505f648bb6ab)
+![Stuti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stutiporwal1&show_icons=true&theme=vue-dark&hide=contribs)
+
 
 
 
