@@ -41,6 +41,10 @@ I’m always excited to collaborate, learn, and contribute to interesting projec
 - LinkedIn: Stuti Porwal (www.linkedin.com/in/stutiporwal01)  
 - Email: porwalstuti01@gmail.com 
 
+## My GitHub Stats
+
+[My Github Stats] (Screenshot 2025-06-13 002233.png)
+
 
 
 
