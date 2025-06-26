@@ -29,7 +29,7 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 
 ## Achievements & Experiences
 
-- Co-authored research papers published in peer-reviewed journals  
+- Co-authored research paper published in Scopus Indexed Journal 
 - Selected for Infosys Springboard Pragati program (Cohort 3)  
 - Organized and led student placement committee activities  
 
