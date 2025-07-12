@@ -31,7 +31,8 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 
 - Co-authored research paper published in Scopus Indexed Journal 
 - Selected for Infosys Springboard Pragati program (Cohort 3)  
-- Organized and led student placement committee activities  
+- Organized and led student placement committee activities
+- Presented research paper at ICACCD conference 2024
 
 
 ## Let’s Connect
