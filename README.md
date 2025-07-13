@@ -21,7 +21,7 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 ## Skills & Technologies
 
 - Programming Languages: Python, C++, JavaScript  
-- Libraries/Frameworks: Streamlit, React JS, Tailwind CSS 
+- Libraries/Frameworks: Streamlit, React JS, Tailwind CSS, Express JS
 - Data Science & ML: Data Cleaning, Feature Engineering, Model Building, Evaluation  
 - Web Development: HTML, CSS, JavaScript, UI/UX   
 - Tools: Git, GitHub, VS Code
