@@ -26,7 +26,7 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 - Web Development: HTML, CSS, JavaScript, UI/UX   
 - Tools: Git, GitHub, VS Code
 
-##Projects
+## Projects
 
 
 ## Achievements & Experiences
