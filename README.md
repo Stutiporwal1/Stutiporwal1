@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I am a passionate and dedicated learner focused on Data Science, Machine Learning, and Web Development. With hands-on experience in projects - iValidateE (Email Validator), Scriptly (Youtube Content Generator), Plant Disease Detection, and Fake News Detection, I love building projects that solve real-world problems using AI and data-driven approaches.
+I am a passionate and dedicated learner focused on Web Development, Data Science and Machine Learning. With hands-on experience in projects - iValidateE (Email Validator), Scriptly (Youtube Content Generator), Plant Disease Detection, and Fake News Detection, I love building projects that solve real-world problems using AI and data-driven approaches.
 
 I enjoy creating user-friendly web applications, and upskilling in areas of Data Analysis.
 
@@ -28,7 +28,11 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 
 ## Projects
 
-
+- iValidateE
+- Fake News Detection
+- Scriptly
+- Plant Disease Detection
+  
 ## Achievements & Experiences
 
 - Co-authored research paper published in Scopus Indexed Journal 
