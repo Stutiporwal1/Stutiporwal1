@@ -12,7 +12,7 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 
 ## What I Work On
 
-- Research projects with published papers in Scopus-indexed journals (Q4)   
+- Research project with published paper in Scopus-indexed journal (Q4)   
 - Web development: HTML, CSS, JavaScript, building accessible and visually appealing apps  
 - Open Source contributions and hackathons focused on environmental sustainability and social impact  
 - Building AI-powered tools like YouTube Video Title & Script Generators  
@@ -28,6 +28,7 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 
 ## Projects
 
+- E-commerce Website (StyleShop)
 - iValidateE
 - Fake News Detection
 - Scriptly
