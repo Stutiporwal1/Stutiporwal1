@@ -32,7 +32,7 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 - iValidateE
 - Fake News Detection
 - Scriptly
-- Plant Disease Detection
+- Plant Disease Detection - The Plant Disease Detection project aims to help farmers and gardeners identify plant diseases using image-based analysis. By using convolutional neural networks (CNNs), the model        detects diseases from leaf images with high accuracy.
   
 ## Achievements & Experiences
 
