@@ -29,6 +29,7 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 ## Projects
 
 - E-commerce Website (StyleShop)
+- Food Delivery Website (YumWheels)
 - iValidateE
 - Fake News Detection
 - Scriptly
