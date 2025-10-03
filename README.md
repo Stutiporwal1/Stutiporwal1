@@ -12,7 +12,8 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 
 ## What I Work On
 
-- Research project with published paper in Scopus-indexed journal (Q4)   
+- Research project with published paper in Scopus-indexed journal (Q4)
+- Presented research paper at Springer Nature  
 - Web development: HTML, CSS, JavaScript, building accessible and visually appealing apps  
 - Open Source contributions and hackathons focused on environmental sustainability and social impact  
 - Building AI-powered tools like YouTube Video Title & Script Generators  
