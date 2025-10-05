@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile!
 
-
 ## About Me
 
 I am a passionate and dedicated learner focused on Web Development, Data Science and Machine Learning. With hands-on experience in projects - Real time chat application, iValidateE (Email Validator), Scriptly (Youtube Content Generator), Plant Disease Detection, and Fake News Detection, I love building projects that solve real-world problems using AI and data-driven approaches.
@@ -42,6 +41,7 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 - Selected for Infosys Springboard Pragati program (Cohort 3)  
 - Organized and led student placement committee activities
 - Presented research paper at ICACCD conference 2024
+- McKinsey'25 Forward Program 
 
 
 ## Let’s Connect
