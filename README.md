@@ -31,6 +31,7 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 - E-commerce Website (StyleShop)
 - Food Delivery Website (YumWheels)
 - iValidateE
+- Sentiment Analyzer
 - Fake News Detection
 - Scriptly
 - Plant Disease Detection - The Plant Disease Detection project aims to help farmers and gardeners identify plant diseases using image-based analysis. By using convolutional neural networks (CNNs), the model        detects diseases from leaf images with high accuracy.
