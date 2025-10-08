@@ -23,7 +23,8 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 - Programming Languages: Python, C++, JavaScript  
 - Libraries/Frameworks: Streamlit, React JS, Express JS, Node JS
 - Data Science & ML: Data Cleaning, Feature Engineering, Model Building, Evaluation  
-- Web Development: HTML, CSS, JavaScript, UI/UX   
+- Web Development: HTML, CSS, JavaScript, UI/UX
+- Database : MongoDB
 - Tools: Git, GitHub, VS Code
 
 ## Projects
