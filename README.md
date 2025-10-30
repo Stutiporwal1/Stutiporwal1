@@ -41,13 +41,12 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
   
 ## Achievements & Experiences
 
-- Co-authored research paper published in Scopus Indexed Journal 
-- Selected for Infosys Springboard Pragati program (Cohort 3)  
-- Organized and led student placement committee activities
+- McKinsey'25 Forward Program
+- Part of Infosys Springboard Pragati program (Cohort 3)
+- Co-authored research paper published in Scopus Indexed Journal   
 - Presented research paper at ICACCD conference 2024
-- McKinsey'25 Forward Program 
-
-
+- Organized and led student placement committee activities
+ 
 ## Let’s Connect
 
 I’m always excited to collaborate, learn, and contribute to interesting projects. Feel free to reach out!
