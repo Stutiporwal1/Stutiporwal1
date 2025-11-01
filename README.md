@@ -49,15 +49,7 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
  
 ## Let’s Connect
 
-I’m always excited to collaborate, learn, and contribute to interesting projects. Feel free to reach out!
+I’m eager to collaborate, learn, and contribute to interesting projects. Feel free to reach out!
 
 - LinkedIn: Stuti Porwal (www.linkedin.com/in/stutiporwal01)  
 - Email: porwalstuti01@gmail.com 
-
-
-
-
-
-
-
-
