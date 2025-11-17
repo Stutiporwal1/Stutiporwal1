@@ -32,6 +32,7 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 - E-commerce Website (StyleShop)
 - Food Delivery Website (YumWheels)
 - iValidateE
+- Netflix clone
 - Sentiment Analyzer
 - Fake News Detection
 - Scriptly
