@@ -30,6 +30,7 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 
 - Blog App
 - E-commerce Website (StyleShop)
+- Fitness Tracking
 - Food Delivery Website (YumWheels)
 - iValidateE
 - Phishing Website Detection System
