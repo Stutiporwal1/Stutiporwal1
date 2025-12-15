@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I am a passionate and dedicated learner focused on Web Development, and Data Science. With hands-on experience in MERN and python built projects, I love building projects that solve real-world problems using data-driven approaches.
+I am a passionate and dedicated learner focusing on Data Science. With hands-on experience in MERN and python built projects, I love building projects that solve real-world problems using data-driven approaches.
 
 I enjoy creating user-friendly web applications, and upskilling in areas of Data Analysis.
 
