@@ -23,7 +23,7 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 - Programming Languages: Python, C++, JavaScript  
 - Frameworks:  React JS, Express JS, Node JS 
 - Web Development: HTML, CSS, JavaScript
-- Database : MongoDB
+- Database : SQL, MongoDB
 - Tools: Git, GitHub, VS Code, Google Colab
 
 ## Projects
