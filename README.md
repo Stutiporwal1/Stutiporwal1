@@ -35,6 +35,7 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 - iValidateE
 - Phishing Website Detection System
 - Netflix clone
+- Movie Xplore
 - Sentiment Analyzer
 - Fake News Detection
 - Scriptly
