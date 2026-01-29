@@ -34,6 +34,7 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 - Food Delivery Website (YumWheels)
 - iValidateE
 - Phishing Website Detection System
+- Mern Guide
 - Netflix clone
 - Movie Xplore
 - Sentiment Analyzer
