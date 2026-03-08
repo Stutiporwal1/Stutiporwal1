@@ -29,6 +29,7 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 ## Projects
 
 - Blog App
+- Cyber threat dashboard
 - E-commerce Website (StyleShop)
 - Fitness Tracking
 - Food Delivery Website (YumWheels)
