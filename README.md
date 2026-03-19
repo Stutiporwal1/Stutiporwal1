@@ -11,7 +11,7 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 
 ## What I Work On
 
-- Research project with published paper in Scopus-indexed journal (Q4)
+- Research project with published paper in Scopus-indexed journal (Q4) titled "Machine learning and computer vision driving precision in robotic surgery".
 - Presented research paper at Springer Nature  
 - Web development: HTML, CSS, JavaScript, building accessible and visually appealing apps  
 - Open Source contributions and hackathons focused on environmental sustainability and social impact  
