@@ -49,7 +49,7 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 - McKinsey'25 Forward Program
 - Part of Infosys Springboard Pragati program (Cohort 3)
 - Infosys Springboard Virtual Internship 6.0
-- Co-authored research paper published in Scopus Indexed Journal   
+- Co-authored research paper published in Scopus Indexed Journal titled "Machine learning and computer vision driving precision in Robotic Surgery".
 - Presented research paper at ICACCD conference 2024
 - Organized and led student placement committee activities
  
