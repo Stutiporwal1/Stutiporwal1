@@ -12,7 +12,7 @@ I enjoy creating user-friendly web applications, and upskilling in areas of Data
 ## What I Work On
 
 - Research project with published paper in Scopus-indexed journal (Q4) titled "Machine learning and computer vision driving precision in robotic surgery".
-- Presented research paper at Springer Nature  
+- Presented research paper at Springer Nature titled "Machine learning based depression diagnosis from Electronic Health Records".
 - Web development: HTML, CSS, JavaScript, building accessible and visually appealing apps  
 - Open Source contributions and hackathons focused on environmental sustainability and social impact  
 - Building AI-powered tools like YouTube Video Title & Script Generators  
